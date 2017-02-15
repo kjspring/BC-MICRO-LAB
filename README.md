@@ -39,4 +39,11 @@ The practical exams will cover basic microbiology techniques, including but not 
 - (200 pts) Soil Microbiome Project
 
 ## Grading Scale
--
+
+| Points  | Letter Grade  |
+|---|---|
+| > 900  | A  |
+| 800 - 899  | B  |
+| 700 - 799  | C  |
+| 600 - 699  | D  |
+| < 600 | F |
