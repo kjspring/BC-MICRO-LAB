@@ -28,10 +28,6 @@ The practical exams will cover basic microbiology techniques, including but not 
 
 ### Soil Microbiome Project
 
-
-### Synthetic Biology Project
-
-
 ## Grading
 - (100 pts) Lab Notebook
 - (300 pts) Section Quizzes
