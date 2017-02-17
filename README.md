@@ -26,6 +26,14 @@ Quizzes will consist on questions about assigned reading
 ### Practical Exam
 The practical exams will cover basic microbiology techniques, including but not limited to making media, aseptic technique, microscope use, and staining.
 
+The practical exams will be over the following:
+
+1. Safety
+2. Making media
+3. Focusing the microscope
+4. Microbe identification using staining 
+4. Aseptic technique
+
 ### Soil Microbiome Project
 
 ## Grading
