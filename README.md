@@ -1,4 +1,5 @@
 # Brazosport College Microbiology Lab (BIOL 2320)
+http://stackoverflow.com/questions/11804820/embed-a-youtube-video
 
 ## Description
 Experiments which emphasize sterile technique, staining techniques, bacteria growth conditions, and biochemical tests used to
