@@ -1,6 +1,9 @@
 # Brazosport College Microbiology Lab (BIOL 2320)
 http://stackoverflow.com/questions/11804820/embed-a-youtube-video
 
+template system: http://robertcedwards.github.io/gh-pages-theme/
+
+
 ## Description
 Experiments which emphasize sterile technique, staining techniques, bacteria growth conditions, and biochemical tests used to
 identify microorganisms, phage testing, food microbiology, and Koch’s postulates
@@ -9,6 +12,14 @@ identify microorganisms, phage testing, food microbiology, and Koch’s postulat
 The purpose of this laboratory is to introduce students to working in a microbiology laboratory and using hands on experiences to paractice microbiology laboratory techniques. Students will participate in a longintudinal study of surveying the soil and water microbiome in the community surrounding Brazosport College. This data will be submitted to the [Earth Microbiome Project](http://www.earthmicrobiome.org/).
 
 ## Schedule / Outline
+
+### Laboratory Mathematics
+
+### Protocols
+
+- List of all [Protocols](/PROTOCOL/protocol.md)
+
+### Laboratory Assignments
 
 #### Unit 1: Basic Microbiology
 
