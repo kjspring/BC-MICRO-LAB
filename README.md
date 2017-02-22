@@ -74,3 +74,28 @@ The practical exams will be over the following:
 | 700 - 799  | C  |
 | 600 - 699  | D  |
 | < 600 | F |
+
+## Editing Instructions
+
+Anyone can suggest changes to these documents, but only registered editors may make permenant changes to these documents.
+
+### Using Git and Github
+
+### Markdown
+All documents are in the markdown file format (.md). If you are new to markdown then please see the [instructions](https://guides.github.com/features/mastering-markdown/) for writing in markdown.
+
+### Protocols
+Protocols are similar to 
+
+### Laboratory Instructions
+
+### Links to internal documents
+
+Any reference to a internal document should be liked to that document. To link properly see the following [instructions](https://github.com/blog/2290-relative-links-for-github-pages)
+
+### Links to external documents
+
+### Citations and References
+
+Any use of other people's work, ideas, opinions
+
