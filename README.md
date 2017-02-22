@@ -98,4 +98,5 @@ Any reference to a internal document should be liked to that document. To link p
 ### Citations and References
 
 Any use of other people's work, ideas, opinions
+http://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown
 
