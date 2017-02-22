@@ -1,6 +1,9 @@
 # Brazosport College Microbiology Lab (BIOL 2320)
 http://stackoverflow.com/questions/11804820/embed-a-youtube-video
 
+template system: http://robertcedwards.github.io/gh-pages-theme/
+
+
 ## Description
 Experiments which emphasize sterile technique, staining techniques, bacteria growth conditions, and biochemical tests used to
 identify microorganisms, phage testing, food microbiology, and Koch’s postulates
